@@ -22,15 +22,15 @@ global.ownername = '死_ＮＥＭＥＳＩＸ🗿' //owner name
 global.botname = 'ENMA' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'BADBOI\n\nContact: +2348140825959'
+global.packname = '死_ＮＥＭＥＳＩＸ'
+global.author = 'ENMA'
 
 //console view/theme
 global.themeemoji = '☠️'
 global.wm = "BADBOI Bot Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x'
+global.link = 'https://chat.whatsapp.com/E3qlnNzNXRFDPwzkpp7LR9'
 
 //custom prefix
 global.prefa = ['-']
