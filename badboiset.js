@@ -11,15 +11,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348140xxxxxx"
-global.ownername = "🤴𝓚𝓘𝓝𝓖 ℬ𝓐𝓓ℬ𝓞𝓘"
+global.ownernomer = "2348077825595"
+global.ownername = "🗿死_ＮＥＭＥＳＩＸ"
 global.ytname = "YT: BADBOI"
 global.socialm = "GitHub: BADBOI-v1"
 global.location = "Nigeria, Ogun-state, ilese"
 
-global.ownernumber = '2348140xxxxxx'  //creator number
-global.ownername = '🤴𝓚𝓘𝓝𝓖 ℬ𝓐𝓓ℬ𝓞𝓘' //owner name
-global.botname = 'ℬ𝓐𝓓ℬ𝓞𝓘-V4ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '2348077825595'  //creator number
+global.ownername = '死_ＮＥＭＥＳＩＸ🗿' //owner name
+global.botname = 'ENMA' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -33,7 +33,7 @@ global.wm = "BADBOI Bot Inc."
 global.link = 'https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['-']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
@@ -42,7 +42,7 @@ global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = true //auto block +92 
-global.autoswview = true //auto view status/story
+global.autoswview = false //auto view status/story
 
 //menu type 
 //v1 is image menu, 
